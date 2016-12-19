@@ -1,0 +1,327 @@
+ServerName       ShareName    UserName         ComputerName         ActiveTime       OpenFiles
+AMBSCMSEC01      Packages$    dumonl           7.26.138.241         31189            1
+AMDSCMSEC01      Packages$    e0261901         10.69.35.68          2103             1
+BOMSCMSEC01      Packages$    E0257435         7.40.125.25          14457            1
+BRISCMSEC01      Packages$    IT800048         7.26.196.9           5379             1
+CAMSCMSEC02      Packages$    E0257034         10.2.202.98          1074             1
+CAMSCMSEC02      Packages$    drani01          7.34.8.170           844              1
+CAMSCMSEC02      Packages$    I0158200         10.2.94.243          1991             1
+CAMSCMSEC02      Packages$    khaha01          157.206.253.161      4357             1
+CAMSCMSEC02      Packages$    NM56587          10.2.94.242          2891             1
+CAMSCMDP01       Packages$    BESAN01          157.206.253.163      28871            0
+CAMSCMDP01       Packages$    flesc01          10.2.202.79          29124            1
+CAMSCMDP01       Packages$    nm66688          10.1.109.176         30970            1
+CAMSCMDP01       Packages$    bolme01          10.2.93.174          30798            1
+CAMSCMDP01       Packages$    CR-LAB-Unicorn   155.65.20.118        27967            1
+CAMSCMDP01       Packages$    kassu01          7.34.208.29          29883            1
+CAMSCMDP02       Packages$    I0243326         7.33.25.114          709              0
+CAMSCMDP02       Packages$    X003288A         7.16.136.39          1560             1
+CAMSCMDP02       Packages$    NM27120ADM       7.16.140.18          9912             3
+CAMSCMDP02       Packages$    huso01           10.1.212.33          1709             1
+CAMSCMDP02       Packages$    bog-arojas       155.65.202.149       1339             1
+CAMSCMDP02       Packages$    I0243326         7.33.25.114          6757             1
+CAMSCMDP02       Packages$    E0274672         7.33.24.133          8540             1
+CAISCMSEC01      Packages$    eg900058         7.26.102.244         0                2
+CAISCMSEC01      Packages$    eg900058         7.26.102.244         11               2
+CF1SWSCCMP01     Packages$    X000940A         157.206.162.236      13333            1
+CF1SWSCCMP01     Packages$    E0243003_ADM     10.21.107.243        11044            1
+CF1SWSCCMP01     Packages$    E0011170         7.26.185.11          2130             1
+CF1SWSCCMP01     Packages$    E0283170         7.26.185.12          2045             1
+CF1SWSCCMP01     Packages$    E0206502_ADM     172.20.254.50        1104             3
+CF1SWSCCMP01     Packages$    E0007373         10.21.107.243        4761             2
+CF1SWSCCMP01     Packages$    E0287550         10.20.162.82         21810            1
+CF1SWSCCMP01     Packages$    E0243255         10.30.108.163        5195             1
+CF1SWSCCMP01     Packages$    e0206502         172.20.255.20        2056             5
+CF1SWSCCMP01     Packages$    E0248246         168.124.12.192       2823             1
+CF1SWSCCMP01     Packages$    E0258810         7.26.189.23          2395             1
+CF1SWSCCMP01     Packages$    E0201333         7.26.218.7           2140             1
+CMPSCMSEC01      Packages$    E0184051         7.9.67.16            12082            1
+CMPSCMSEC01      Packages$    E0184051         7.9.65.200           21324            3
+CMPSCMSEC01      Packages$    E0208019         7.9.65.168           9357             6
+CLPWVM91         Packages$    fr53592          168.124.12.190       129              0
+CLPWVM91         Packages$    E0277173         7.19.108.54          5853             1
+CLPWVM91         Packages$    E0276643         172.24.214.155       8015             1
+CLPWVM91         Packages$    fr07856          172.24.198.191       5036             1
+CLPWVM91         Packages$    E0214807         7.19.108.184         3764             1
+CLPWVM91         Packages$    E0214839         7.25.170.100         342              1
+CLPWVM91         Packages$    E0187812         7.24.150.97          4614             1
+CLPWVM91         Packages$    E0243173         172.24.214.158       3805             1
+CLPWVM91         Packages$    E0280761         172.24.213.9         525              5
+CLPWVM91         Packages$    fr05354          172.24.202.159       2869             1
+CLPWVM91         Packages$    E0280780         7.19.25.211          2911             1
+CLPWVM91         Packages$    E0290003         7.19.110.68          5181             1
+CLPWVM91         Packages$    E0266701         172.24.213.31        7996             1
+CLPWVM91         Packages$    FR22089D         7.19.102.38          24799            1
+CPVSCMSEC01      Packages$    E0258175         7.26.200.155         1024             1
+CRBSCMSEC01      Packages$    E0267420         7.26.15.18           8393             1
+CRBSCMSEC01      Packages$    E0279382         7.73.17.232          2419             1
+CRBSCMSEC01      Packages$    FR60822          7.25.135.31          8248             1
+CRBSCMSEC01      Packages$    FRX02991         7.26.245.63          41294            1
+CRBSCMSEC01      Packages$    E0289206         7.26.15.29           703              1
+CRBSCMSEC01      Packages$    Mazenc           10.21.154.67         3188             1
+CRBSCMSEC01      Packages$    E0237808         7.73.17.21           3040             1
+CRBSCMSEC01      Packages$    E0278191         7.73.37.67           18989            1
+CROSCMSEC01      Packages$    E0294650         7.24.144.88          8908             1
+XSPW10T240W      Packages$    E0228895         7.27.33.45           3452             1
+XSPW10T240W      Packages$    CA310113         7.33.66.50           518              1
+XSPW10T240W      Packages$    E0225174         7.33.55.95           14               0
+XSPW10T240W      Packages$    NM31938          7.32.151.138         1634             1
+XSPW10T240W      Packages$    I0197337         7.33.24.234          46120            1
+XSPW10T240W      Packages$    I0275442         7.33.24.189          9395             1
+XSPW10T240W      Packages$    E0182508         7.4.32.154           0                3
+XSPW10T240W      Packages$    I0208227         7.33.24.106          9536             1
+XSPW10T240W      Packages$    E0287941         7.25.135.16          3250             1
+XSPW10T240W      Packages$    E0278434         10.8.23.184          1744             1
+XSPW10T240W      Packages$    rumatzj          155.65.200.100       63414            2
+XSPW10T240W      Packages$    nasariod         10.8.22.80           2855             1
+XSPW10T240W      Packages$    E0264241         7.33.24.92           828              1
+XSPW10T240W      Packages$    E0165044         7.33.82.22           16785            1
+XSPW10T240W      Packages$    E0278197         155.65.202.241       40884            1
+XSPW10T240W      Packages$    NM27405ADM       7.33.146.137         2952             9
+XSPW10T240W      Packages$    E0257762         7.33.82.37           179              0
+XSPW10T240W      Packages$    I0156186         155.65.205.85        892              1
+XSPW10T240W      Packages$    CA312862         7.33.66.65           3523             1
+XSPW10T240W      Packages$    CA310079         7.33.66.35           14548            1
+XSPW10T240W      Packages$    I0253998         157.206.253.164      540              1
+XSPW10T240W      Packages$    E0164144         7.4.32.154           1                6
+XSPW10T240W      Packages$    E0261002         7.32.126.28          4200             1
+XSPW10T240W      Packages$    HarrisJ          10.12.65.135         0                10
+XSPW10T240W      Packages$    I0250122         7.33.146.137         2853             3
+XSPW10T240W      Packages$    E0269184         7.33.46.116          66               1
+XSPW10T240W      Packages$    I0277002         7.33.24.116          2020             1
+XSPW10T241B      Packages$    bpatel           10.2.91.101          2182             1
+XSPW10T241B      Packages$    YU000055         168.124.12.193       3871             1
+XSPW10T241B      Packages$    LESO01           10.160.128.87        645              0
+XSPW10T241B      Packages$    YU000055         168.124.12.205       2290             1
+XSPW10T241B      Packages$    nm66688          10.1.109.188         2204             1
+XSPW10T241B      Packages$    E0232722         7.33.226.80          12185            1
+XSPW10T241B      Packages$    NM28873ADM       7.33.212.20          11475            2
+XSPW10P764P      Packages$    svcPharmaSMS     QTYD5002791          5185             2
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.67.164         10361            2
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.35.29          5188             2
+XSPW10P764P      Packages$    svcPharmaSMS     QTYD5061189          4843             2
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.34.40          5259             2
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.67.162         10405            2
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.35.9           5148             2
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.35.73          5253             2
+XSPW10P764P      Packages$    X004336A         157.206.55.82        38262            4
+XSPW10P764P      Packages$    svcPharmaSMS     10.66.36.84          4886             2
+XSPW10P763C      Packages$    nm66686adm       134.81.17.131        60600            2
+XSPW10P763C      Packages$    il003754         168.124.232.117      0                1
+XSPW10P763C      Packages$    I0254522         7.27.33.66           1169             1
+XSPW10P763C      Packages$    E0191791         7.26.4.63            9318             1
+XSPW10P763C      Packages$    E0191791         7.26.4.63            9318             1
+XSPW10P763C      Packages$    E0240887         168.124.207.41       2952             1
+XSPW10P763C      Packages$    nm66686adm       134.81.173.133       41283            2
+XSPW10P763C      Packages$    svcPharmaSMS     168.124.233.154      65               1
+XSPW10P763C      Packages$    svcPharmaSMS     168.124.233.225      0                1
+XSPW10P763C      Packages$    BA000029         7.27.33.52           1204             1
+XSPW10P763C      Packages$    BE9995           7.26.153.79          5367             1
+XSPW10P763C      Packages$    I0263334         7.24.101.69          7054             1
+XSPW10P766B      Packages$    DE902589         7.25.113.28          6671             1
+SINSCMDP01       Packages$    mybadrulms       7.42.8.47            2146             2
+SINSCMDP01       Packages$    nm66686adm       134.81.173.133       36863            1
+SINSCMDP01       Packages$    nm66686adm       134.81.17.131        60648            1
+FLOSCMSEC01      Packages$    E0155208         7.18.17.24           726              1
+FLOSCMSEC01      Packages$    aiachesa         192.168.131.70       60725            3
+FLOSCMSEC01      Packages$    E0288935         10.12.10.75          334              1
+FLOSCMSEC01      Packages$    E0257924         7.9.225.76           24729            1
+FLOSCMSEC01      Packages$    e0147525         7.9.224.89           193              3
+FLOSCMSEC01      Packages$    E0030153         7.25.135.7           7279             4
+FLOSCMSEC01      Packages$    Mazouz           10.20.170.50         2853             1
+FLOSCMSEC01      Packages$    SN990832         7.24.211.30          247              2
+FLOSCMSEC01      Packages$    e0057942         172.28.90.31         39324            3
+FLOSCMSEC01      Packages$    ClercSA          7.9.225.186          24729            1
+FLOSCMSEC01      Packages$    Poenot           7.9.224.143          7974             1
+FLOSCMSEC01      Packages$    kulan02          10.1.222.30          8843             1
+FLOSCMSEC01      Packages$    fr59514          7.73.34.208          232              1
+FLOSCMSEC01      Packages$    I0197487         7.25.135.14          635              3
+FRASCMDP06       Packages$    DE902589         7.25.113.28          6820             1
+FRASCMDP06       Packages$    DE900099A        7.25.30.5            100              2
+FRASCMDP06       Packages$    DE911224         7.25.32.12           5822             1
+FRASCMDP06       Packages$    E0215009         7.25.32.27           7897             1
+FRASCMDP06       Packages$    DE900099A        7.25.30.5            64842            4
+GFDSCMSEC02      Packages$    E0280502         7.27.48.31           21               1
+GFDSCMSEC02      Packages$    I0295438         168.124.12.205       544              3
+GFDSCMSEC02      Packages$    E0280502         7.27.48.31           30               1
+GFDSCMSEC02      Packages$    I0295438         168.124.12.205       553              3
+HAVSCMSEC01      Packages$    E0287278         10.79.62.67          8272             1
+HCMSCMSEC01      Packages$    VNNguyenVH       166.118.208.135      18513            3
+HOLSCMSEC01      Packages$    GB056154SA       168.124.137.19       636              2
+HOLSCMSEC01      Packages$    HOLSVCSDD01      168.124.137.21       1923             3
+HOLSCMSEC01      Packages$    GB056154         7.27.42.4            21719            3
+HOLSCMSEC01      Packages$    GB056154         7.27.42.4            11182            1
+HOLSCMSEC01      Packages$    GB099892         7.27.42.6            38449            1
+HOLSCMSEC01      Packages$    I0147492         7.27.43.10           3437             1
+HOLSCMSEC01      Packages$    GB056154         7.28.149.239         2482             1
+HOLSCMSEC01      Packages$    GB056154SA       168.124.137.19       662              2
+HOLSCMSEC01      Packages$    HOLSVCSDD01      168.124.137.21       1949             3
+HOLSCMSEC01      Packages$    GB056154         7.27.42.4            21745            3
+HOLSCMSEC01      Packages$    GB056154         7.27.42.4            11208            1
+HOLSCMSEC01      Packages$    GB099892         7.27.42.6            38475            1
+HOLSCMSEC01      Packages$    I0147492         7.27.43.10           3463             1
+HOLSCMSEC01      Packages$    GB056154         7.28.149.239         2508             1
+HSKSCMSEC01      Packages$    FI000003         168.124.163.17       15797            1
+HSKSCMSEC01      Packages$    FI000202         168.124.163.50       25769            1
+Get-WmiObject : Access is denied. (Exception from HRESULT: 0x80070005 
+(E_ACCESSDENIED))
+At 
+D:\TEMP$\Scripts\PackageShareConnections\PackageShareConnections-LIST.PS1:19 
+char:28
++         $UserConnections = Get-WmiObject -Computer $ServerName  -namespace 
+"root ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-WmiObject], UnauthorizedA 
+   ccessException
+    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.Pow 
+   erShell.Commands.GetWmiObjectCommand
+ 
+KULSCMSEC01      Packages$    kulsysadmin      7.42.8.19            43854            1
+KULSCMSEC01      Packages$    mybadrulms       7.42.8.47            33513            1
+LISSCMSEC01      Packages$    FR070879         7.9.93.101           61115            1
+LISSCMSEC01      Packages$    FR070879         7.9.93.101           284              1
+LISSCMSEC01      Packages$    ServTeam         168.124.93.111       63493            1
+LOUSCMSEC01      Packages$    frx19260         7.9.84.146           15318            1
+LOUSCMSEC01      Packages$    frx19260         7.9.84.168           23232            1
+LOUSCMSEC01      Packages$    frx19260         7.9.84.225           35413            1
+LOUSCMSEC01      Packages$    E0207410         7.9.84.195           6364             1
+LUZSCMSEC01      Packages$    e07001           7.27.164.40          1972             1
+LUZSCMSEC01      Packages$    e07001           7.27.164.40          1981             1
+LYOSCMSEC01      Packages$    E0288322         7.27.182.119         3865             1
+MAVSCMSEC01      Packages$    E0182164         7.24.184.82          2322             1
+MEXSCMSEC01      Packages$    E0139968         7.32.201.15          9928             1
+MPPW146VM        Packages$    e0141785         172.20.237.65        498              1
+Get-WmiObject : Access is denied. (Exception from HRESULT: 0x80070005 
+(E_ACCESSDENIED))
+At 
+D:\TEMP$\Scripts\PackageShareConnections\PackageShareConnections-LIST.PS1:19 
+char:28
++         $UserConnections = Get-WmiObject -Computer $ServerName  -namespace 
+"root ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-WmiObject], UnauthorizedA 
+   ccessException
+    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.Pow 
+   erShell.Commands.GetWmiObjectCommand
+ 
+NRDSCMSEC01      Packages$    SLURE01          10.84.19.61          3182             1
+NRDSCMSEC01      Packages$    E0287737         10.84.19.70          6718             1
+NVLSCMSEC01      Packages$    E0295835         10.23.128.157        8474             1
+NVLSCMSEC01      Packages$    E0200962         10.23.128.212        1676             1
+NVLSCMSEC01      Packages$    E0287405         7.26.160.242         8848             1
+NVLSCMSEC01      Packages$    E0267678         10.23.129.189        8506             1
+NVLSCMSEC01      Packages$    E0286587         7.26.160.199         26024            1
+NVLSCMSEC01      Packages$    FRE69703         10.23.129.208        2865             1
+NVLSCMSEC01      Packages$    E0257561         10.23.128.206        26423            1
+NVLSCMSEC01      Packages$    E0269873         10.23.129.213        700              1
+NVLSCMSEC01      Packages$    E0280742         10.23.129.212        9203             1
+NVLSCMSEC01      Packages$    E0257573         10.23.129.166        3473             1
+NVLSCMSEC01      Packages$    E0284830         10.23.128.149        4890             1
+NVLSCMSEC01      Packages$    E0294065         168.124.12.192       16343            1
+NVLSCMSEC01      Packages$    E0292237         168.124.12.190       1097             1
+NVLSCMSEC01      Packages$    E0248780         10.23.127.201        639              1
+NVLSCMSEC01      Packages$    E0030194         10.23.127.215        4566             1
+NVLSCMSEC01      Packages$    E0180344         10.23.129.176        14040            1
+NVLSCMSEC01      Packages$    E0265152         10.23.129.205        7992             1
+NVLSCMSEC01      Packages$    E0193686         10.23.128.210        2514             1
+NVLSCMSEC01      Packages$    E0286550         7.26.161.27          7768             1
+NVLSCMSEC01      Packages$    E0258880_ADM     10.23.129.33         6265             1
+NVLSCMSEC01      Packages$    E0294061         7.28.139.67          7260             1
+NVLSCMSEC01      Packages$    E0271109         10.23.128.185        4699             1
+NVLSCMSEC01      Packages$    E0286546         7.26.161.26          3049             1
+NVLSCMSEC01      Packages$    E0212329         10.23.127.137        50               1
+NVLSCMSEC01      Packages$    E0286566         7.26.160.96          4405             1
+NVLSCMSEC01      Packages$    E0270011         168.124.12.195       38235            1
+NVLSCMSEC01      Packages$    E0253410         7.26.160.180         2562             1
+ORLSCMSEC01      Packages$    ru008999sa       7.24.65.208          11694            1
+Get-WmiObject : Access is denied. (Exception from HRESULT: 0x80070005 
+(E_ACCESSDENIED))
+At 
+D:\TEMP$\Scripts\PackageShareConnections\PackageShareConnections-LIST.PS1:19 
+char:28
++         $UserConnections = Get-WmiObject -Computer $ServerName  -namespace 
+"root ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-WmiObject], UnauthorizedA 
+   ccessException
+    + FullyQualifiedErrorId : System.UnauthorizedAccessException,Microsoft.Pow 
+   erShell.Commands.GetWmiObjectCommand
+ 
+BWPW202          Packages$    NM99576          7.32.116.86          55120            1
+BWPW202          Packages$    NM99576          7.32.116.86          1139             1
+BWPW202          Packages$    E0213534         7.33.105.57          1692             1
+BWPW202          Packages$    X003701A         155.65.38.185        8586             1
+BWPW202          Packages$    NM99576ADM2      7.32.221.33          12993            1
+BWPW202          Packages$    E0165044         7.33.82.22           17718            1
+BWPW202          Packages$    E0241878         7.35.131.64          382              1
+BWPW202          Packages$    NM99576          7.32.116.86          55122            1
+BWPW202          Packages$    NM99576          7.32.116.86          1141             1
+BWPW202          Packages$    E0213534         7.33.105.57          1694             1
+BWPW202          Packages$    X003701A         155.65.38.185        8588             1
+BWPW202          Packages$    NM99576ADM2      7.32.221.33          12995            1
+BWPW202          Packages$    E0165044         7.33.82.22           17720            1
+BWPW202          Packages$    E0241878         7.35.131.64          384              1
+RIESCMSEC02      Packages$    fr59514          7.73.34.208          0                5
+RIESCMSEC02      Packages$    fr59514          7.73.34.208          0                4
+SIPSCMSEC01      Packages$    SG100713         166.118.245.25       46781            3
+SIPSCMSEC01      Packages$    SG100713         7.40.18.47           54308            1
+SISSCMSEC01      Packages$    XPAULN           168.124.12.206       5289             1
+SISSCMSEC01      Packages$    E0014408SA       168.124.81.52        4501             1
+SISSCMSEC01      Packages$    I0014401         7.9.140.1            61644            1
+SISSCMSEC01      Packages$    I0141756         7.24.215.12          2023             1
+SISSCMSEC01      Packages$    BARATTEM         7.9.140.173          6261             1
+SISSCMSEC01      Packages$    FERRERE          7.9.140.133          8970             1
+SISSCMSEC01      Packages$    VALETTJC         7.24.213.78          1084             1
+SISSCMSEC01      Packages$    DUBOISD          168.124.12.206       2770             1
+SISSCMSEC01      Packages$    XPAULN           168.124.81.208       23506            1
+SISSCMSEC01      Packages$    ABELLOC          7.9.140.69           52005            1
+SISSCMSEC01      Packages$    I0014401         7.9.140.178          61643            1
+SAOSCMSEC02      Packages$    E0225174         7.33.55.95           1461             1
+SWTSWSCCMP01     Packages$    E0288103         10.87.163.101        92               3
+SWTSWSCCMP01     Packages$    E0264134         7.34.10.26           784              0
+SWTSWSCCMP01     Packages$    I0232016         7.33.115.118         728              0
+SWTSWSCCMP01     Packages$    E0282491         7.35.11.54           907              1
+SWTSWSCCMP01     Packages$    I0129633         10.87.166.109        457              0
+SWTSWSCCMP01     Packages$    E0233959         10.87.162.74         7267             1
+SWTSWSCCMP01     Packages$    E0247934         7.35.88.27           1344             1
+SWTSWSCCMP01     Packages$    NM26654          7.32.160.159         6072             1
+SWTSWSCCMP01     Packages$    E0288103         10.87.163.101        98               3
+SWTSWSCCMP01     Packages$    E0264134         7.34.10.26           790              0
+SWTSWSCCMP01     Packages$    I0232016         7.33.115.118         734              0
+SWTSWSCCMP01     Packages$    E0282491         7.35.11.54           913              1
+SWTSWSCCMP01     Packages$    I0129633         10.87.166.109        463              0
+SWTSWSCCMP01     Packages$    E0233959         10.87.162.74         7273             1
+SWTSWSCCMP01     Packages$    E0247934         7.35.88.27           1350             1
+SWTSWSCCMP01     Packages$    NM26654          7.32.160.159         6078             1
+TLPW17VM         Packages$    fr23060          172.20.254.46        4263             1
+TLPW17VM         Packages$    I0242365         10.64.93.204         18685            1
+TUNSCMSEC01      Packages$    TN001039         168.124.221.105      1838             1
+TUNSCMSEC01      Packages$    TN001039         168.124.221.105      4992             1
+TUNSCMSEC01      Packages$    svcPharmaSMS     168.124.221.107      9                0
+UJPSCMSEC01      Packages$    HU00198          7.24.88.8            36309            1
+UJPSCMSEC01      Packages$    E0214396         7.24.88.3            16654            1
+UJPSCMSEC01      Packages$    E0209444         7.24.88.13           14541            1
+UJPSCMSEC01      Packages$    HU00197          7.24.88.16           27539            1
+UJPSCMSEC01      Packages$    E0190775         7.24.88.12           12033            1
+VDRSWSCCMP01     Packages$    E0243255         10.30.108.163        6878             1
+VERSCMSEC01      Packages$    I0053030sa       7.26.75.249          42445            1
+VERSCMSEC01      Packages$    e0230555sa       7.26.75.237          30233            1
+VRTSCMSEC01      Packages$    E0193120         7.9.68.231           14432            1
+VRTSCMSEC01      Packages$    FR49044P         7.9.69.22            9809             1
+VRTSCMSEC01      Packages$    I0145544         7.9.68.166           21299            1
+VRTSCMSEC01      Packages$    FRE62287         168.124.69.134       4703             1
+WATSCMSEC01      Packages$    reike03_adm      10.79.8.186          1865             4
+WATSCMSEC01      Packages$    reike03_adm      10.79.8.43           508              3
+WATSCMSEC01      Packages$    reike03          10.79.8.94           610              3
+WATSCMSEC01      Packages$    cleno02          7.34.154.76          46602            1
+WATSCMSEC01      Packages$    svcPharmaSMS     7.34.159.59          964              2
+WATSCMSEC01      Packages$    reike03          10.79.8.25           907              3
+WATSCMSEC01      Packages$    walto04          7.34.68.122          4425             1
+WATSCMSEC01      Packages$    svcPharmaSMS     7.34.159.16          939              2
+WATSCMSEC01      Packages$    reike03_adm      10.79.8.157          47370            4
+WATSCMSEC01      Packages$    E0268691         7.34.154.39          3175             1
+WATSCMSEC01      Packages$    brega01          7.34.156.109         4273             1
+WATSCMSEC01      Packages$    reike03          7.34.154.110         4798             1
